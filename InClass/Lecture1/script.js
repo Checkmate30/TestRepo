@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -15,3 +16,6 @@ toArray.forEach(liElement => { //function to find name
     }
 })
 
+=======
+const status = document.getElementById('check');
+>>>>>>> 655999b145644992e4f3669ecabd0949cc932bef
